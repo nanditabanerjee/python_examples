@@ -12,7 +12,7 @@ NOTES:
 1) To download a repository -
 
 	cd <directory_where_you_want_it_to_be>
-	git clone https://github.com/preranarout/python_examples.git
+	git clone https://github.com/nanditabanerjee/python_examples.git
 
    A folder with the git repository name will be created.
 
