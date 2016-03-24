@@ -35,3 +35,7 @@ NOTES:
 6) To get the latest git repository, use pull -
 
 	git pull origin <branch-name>
+
+7) To remove a deleted file from the git repository -
+
+	git rm <path_to_file>
