@@ -1,0 +1,19 @@
+# Good job on the last one. Very nicely done. :)
+# Create a folder called problem2. Then create six functions this time - 
+# add(x, y)      1
+# sub(x, y)      2
+# mult(x, y)     3
+# div(x, y)      4
+# square(x, y)   5
+# sqrt(x, y)     6
+# Inside the main function, write a while loop which will cycle through a message asking the user to 
+# enter the type of operation he/she wants to perform. 
+# Example usage:
+# 
+# > python problem2.py
+# > Enter the type of operation: <user inputs 1, 2, 3, 4, 5 or 6 to select the operations>
+# > Enter the first number:
+# > Enter the second number:
+# > Answer: ...
+#
+# Deadline: 31st of March, 2015.
