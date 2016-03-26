@@ -1,4 +1,4 @@
-# Good job on the last one. Very nicely done. :)
+
 # Create a folder called problem2. Then create six functions this time - 
 # add(x, y)      1
 # sub(x, y)      2
@@ -15,5 +15,4 @@
 # > Enter the first number:
 # > Enter the second number:
 # > Answer: ...
-#
-# Deadline: 31st of March, 2015.
+Deadline: 28 March, 2015
