@@ -1,0 +1,30 @@
+vim basic tutorial
+
+1) Open vim with a file
+
+- Go to the directory where the file is or where you want to create the file.
+- Type 
+	> vim <filename>
+
+2) To go to insert mode
+
+- Hit the escape button to go to the command mode in vim
+- Press i (will take you to insert mode)
+
+3) Edit normally. Write abcd ...
+
+4) Save and quit.
+
+- Hit the escape after you are done editing the file.
+- Type 
+	:wq
+- Then press Enter.
+
+5) Quit without saving.
+
+- Hit the escape button.
+- Type
+	:q!
+- Then press Enter.
+
+Once you get familiar with this and if you feel comfortable, you can look online on vim tutorials. :)
