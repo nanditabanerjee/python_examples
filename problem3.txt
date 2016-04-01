@@ -1,0 +1,4 @@
+- Copy all your code from problem2. 
+- Add two functions to compute the HCF and LCM of three numbers.
+- Instead of 7 for exit, the user has to enter the word "quit" or "QUIT" or "Quit" to exit.
+- Add two more options, 7 and 8 to perform the HCF and LCM respectively.
