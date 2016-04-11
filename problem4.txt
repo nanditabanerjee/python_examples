@@ -1,0 +1,25 @@
+Modify problem3 and instead of taking three numbers, the user will enter the number of inputs he/she will provide.
+Like this in HCF:
+
+  Select an option: 7
+  Enter the number of inputs: 5     // This is the extra input that the user will provide.
+  Enter number 1: 10
+  Enter number 2: 25
+  Enter number 3: 30
+  Enter number 4: 50
+  Enter number 5: 100
+  The HCF result is: 5
+  
+Same for LCM.
+
+Also, use argparse to take in command line arguments, so that the program can be run in batch mode by creating a batch file.
+
+  C:/> python problem4_solved.py -o 7 -i 5 -n 10 25 30 50 100
+  C:/> The HCF result is: 5
+  
+The -o specifies the option, -i specifies the number of inputs, and the inputs follow -n. 
+Search for argparse and follow its tutorials. Try out basic examples using argparse before trying to do this.
+
+Finally, run addition, subtration, ... in a batch file on random numbers 20 times.
+
+So, you will upload two files: problem4_solved.py and also problem4_batch.bat
